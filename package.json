@@ -1,0 +1,19 @@
+{
+  "author": "Abdel-Maliki",
+  "name": "my-package-blabla",
+  "version": "0.1.1",
+  "description": "Censors words out of text",
+  "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abdel-Maliki/censorify.git"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
